@@ -2,7 +2,7 @@
 
 Repositorio criado para o desenvolvimento do projeto in page (Travel Time).
 
-[Link do projeto no Vercel](https://projeto-travel-time-amber.vercel.app)
+[Link do projeto no Vercel](https://projeto-travel-time.vercel.app)
 
 ## Guia de estilos
 
